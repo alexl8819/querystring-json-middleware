@@ -2,7 +2,7 @@
 Middleware that parses urlencoded form querystrings as JSON for validation
 
 # Install
-    $ git clone https://github.com/idealwebsolutions/querystring-json-middleware.git
+    $ git clone https://github.com/alexl8819/querystring-json-middleware.git
     $ cd querystring-json-middleware && npm install
 
 # Usage
